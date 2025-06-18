@@ -1,1 +1,1 @@
-# ProyectoML
+[notebooks/etapa2_modelo_basico.ipynb](notebooks/etapa2_modelo_basico.ipynb)
